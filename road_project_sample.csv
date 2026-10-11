@@ -1,0 +1,9 @@
+activity,planned_start_week,planned_finish_week,budget_kes_thousands,actual_cost_kes_thousands,completion_pct
+Site clearance,1,1,100,100,100
+Earthworks,2,4,420,390,90
+Drainage,3,6,680,620,85
+Sub-base,5,7,520,470,90
+Base course,7,9,760,610,80
+Asphalt works,9,12,1150,0,10
+Road markings,12,13,180,0,0
+Quality inspection,13,14,90,0,0

@@ -1,0 +1,25 @@
+30-DAY PRACTICE PLAN
+Week 1 — Python and data checks
+- Run the retail analysis.py script.
+- Explain CSV reading, groupby, sums and gross margin in your own words.
+- Add checks for missing values and duplicate rows.
+- Write a short summary of findings and limitations.
+
+Week 2 — SQL
+- Import the retail CSV into SQLite as retail_sales.
+- Run the queries in queries.sql.
+- Change one query by adding a filter or grouping by a different field.
+- Practise explaining SELECT, WHERE, GROUP BY, SUM, CASE WHEN and NULLIF.
+
+Week 3 — Qlik Sense or Excel
+- Recreate two retail charts in Qlik Sense or Excel.
+- Use clear chart titles, units and labels.
+- Write a brief interpretation without claiming causation.
+
+Week 4 — Portfolio and interviews
+- Run all three projects and check the output.
+- Publish them to GitHub using the checklist.
+- Prepare a 60-second explanation per project: question, data source, method, finding and limitation.
+- Add the GitHub URL to your resume only after it is live and checked.
+
+The resume intentionally describes Python and SQL as foundational. Do not claim advanced skills or unperformed work.

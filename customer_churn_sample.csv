@@ -1,0 +1,501 @@
+customer_id,tenure_months,contract_type,monthly_spend,support_contact_last_90d,payment_method,churned
+C0001,43,Month-to-month,54.69,Yes,Card,Yes
+C0002,28,One year,94.81,Yes,Mobile money,No
+C0003,23,Two year,94.29,No,Cash,No
+C0004,39,Month-to-month,33.58,Yes,Mobile money,No
+C0005,50,Month-to-month,84.99,No,Cash,No
+C0006,54,Month-to-month,19.74,Yes,Bank transfer,No
+C0007,6,Month-to-month,61.25,Yes,Cash,Yes
+C0008,12,Month-to-month,46.12,Yes,Bank transfer,No
+C0009,17,Two year,53.14,Yes,Bank transfer,No
+C0010,54,Month-to-month,52.25,Yes,Card,Yes
+C0011,44,Month-to-month,101.28,Yes,Bank transfer,No
+C0012,13,Month-to-month,69.03,No,Mobile money,Yes
+C0013,41,Two year,52.79,No,Card,No
+C0014,48,One year,67.08,No,Bank transfer,No
+C0015,7,One year,82.32,No,Bank transfer,No
+C0016,5,Month-to-month,25.11,Yes,Cash,Yes
+C0017,4,One year,70.97,Yes,Bank transfer,Yes
+C0018,18,One year,105.15,Yes,Bank transfer,No
+C0019,16,Month-to-month,17.81,No,Cash,No
+C0020,27,Month-to-month,22.2,No,Card,No
+C0021,46,One year,99.15,Yes,Cash,No
+C0022,48,Month-to-month,93.09,Yes,Mobile money,No
+C0023,45,Two year,83.8,No,Cash,No
+C0024,60,Two year,78.71,No,Card,No
+C0025,5,One year,80.43,No,Cash,Yes
+C0026,48,One year,34.34,Yes,Bank transfer,No
+C0027,41,Month-to-month,90.26,Yes,Mobile money,No
+C0028,11,Two year,19.22,Yes,Mobile money,Yes
+C0029,60,Two year,95.64,Yes,Card,No
+C0030,56,One year,38.83,No,Mobile money,No
+C0031,42,Month-to-month,57.14,Yes,Cash,Yes
+C0032,4,Month-to-month,85.5,Yes,Cash,Yes
+C0033,59,Two year,35.91,No,Mobile money,No
+C0034,47,One year,76.72,Yes,Card,No
+C0035,11,Month-to-month,119.88,Yes,Cash,No
+C0036,56,Month-to-month,80.89,No,Card,No
+C0037,53,Month-to-month,85.99,No,Card,Yes
+C0038,40,Month-to-month,89.21,Yes,Mobile money,No
+C0039,49,Month-to-month,110.05,Yes,Card,Yes
+C0040,16,One year,90.5,Yes,Mobile money,Yes
+C0041,4,Month-to-month,88.99,No,Card,Yes
+C0042,9,One year,100.32,Yes,Card,No
+C0043,37,Month-to-month,98.6,Yes,Cash,No
+C0044,47,Month-to-month,87.26,Yes,Mobile money,No
+C0045,15,One year,22.55,No,Mobile money,No
+C0046,35,One year,100.11,Yes,Bank transfer,No
+C0047,48,One year,97.05,No,Bank transfer,No
+C0048,34,Month-to-month,65.77,No,Mobile money,No
+C0049,54,Month-to-month,60.54,No,Card,Yes
+C0050,22,Month-to-month,30.69,Yes,Mobile money,No
+C0051,47,Month-to-month,34.13,No,Cash,No
+C0052,42,Month-to-month,57.14,Yes,Mobile money,Yes
+C0053,4,Month-to-month,84.69,No,Cash,No
+C0054,6,Two year,85.18,Yes,Mobile money,No
+C0055,26,Month-to-month,41.75,Yes,Cash,No
+C0056,28,Month-to-month,109.11,Yes,Card,Yes
+C0057,18,Month-to-month,109.64,No,Bank transfer,No
+C0058,43,Month-to-month,40.8,No,Bank transfer,No
+C0059,7,Month-to-month,102.32,No,Cash,Yes
+C0060,6,One year,88.87,No,Bank transfer,Yes
+C0061,45,Month-to-month,92.54,Yes,Card,No
+C0062,40,Month-to-month,23.69,No,Mobile money,Yes
+C0063,60,Two year,105.95,Yes,Card,No
+C0064,37,Month-to-month,109.0,Yes,Mobile money,Yes
+C0065,7,One year,17.87,Yes,Card,No
+C0066,40,Month-to-month,62.2,Yes,Mobile money,No
+C0067,36,Month-to-month,41.06,No,Cash,No
+C0068,7,Two year,90.73,Yes,Bank transfer,No
+C0069,34,Two year,73.52,No,Card,No
+C0070,12,One year,88.56,Yes,Card,Yes
+C0071,25,Month-to-month,48.19,Yes,Mobile money,No
+C0072,56,One year,33.5,No,Mobile money,No
+C0073,24,One year,96.73,No,Mobile money,No
+C0074,51,One year,26.24,Yes,Card,Yes
+C0075,50,Month-to-month,119.1,No,Card,No
+C0076,6,Month-to-month,31.11,No,Bank transfer,Yes
+C0077,30,One year,82.18,No,Bank transfer,No
+C0078,6,Two year,103.63,Yes,Cash,No
+C0079,24,Month-to-month,34.59,No,Mobile money,No
+C0080,18,Month-to-month,91.76,Yes,Cash,Yes
+C0081,23,One year,58.43,Yes,Mobile money,Yes
+C0082,44,One year,81.64,Yes,Bank transfer,No
+C0083,7,One year,69.68,Yes,Mobile money,No
+C0084,13,Month-to-month,102.45,Yes,Bank transfer,No
+C0085,55,Two year,17.51,No,Card,No
+C0086,1,Two year,31.28,No,Mobile money,Yes
+C0087,46,Month-to-month,34.16,Yes,Mobile money,Yes
+C0088,32,Month-to-month,57.06,Yes,Mobile money,Yes
+C0089,42,One year,74.34,No,Card,Yes
+C0090,47,Two year,35.27,No,Bank transfer,No
+C0091,58,Two year,67.47,No,Cash,No
+C0092,9,Month-to-month,84.33,No,Cash,No
+C0093,48,One year,67.19,Yes,Bank transfer,No
+C0094,19,One year,73.31,No,Bank transfer,No
+C0095,33,Two year,85.62,No,Card,No
+C0096,59,Month-to-month,66.04,No,Mobile money,Yes
+C0097,58,Month-to-month,47.26,No,Card,Yes
+C0098,23,Month-to-month,82.93,Yes,Bank transfer,Yes
+C0099,52,One year,40.49,Yes,Card,Yes
+C0100,12,Month-to-month,98.11,Yes,Mobile money,No
+C0101,42,One year,61.25,Yes,Bank transfer,No
+C0102,17,Two year,89.52,No,Card,Yes
+C0103,44,One year,50.82,No,Bank transfer,Yes
+C0104,58,One year,34.91,Yes,Bank transfer,No
+C0105,32,Month-to-month,64.89,No,Card,Yes
+C0106,28,Month-to-month,119.29,No,Cash,No
+C0107,51,Two year,38.31,Yes,Cash,No
+C0108,2,Month-to-month,48.61,Yes,Card,No
+C0109,51,One year,114.3,Yes,Mobile money,No
+C0110,49,Month-to-month,88.65,No,Mobile money,No
+C0111,41,Month-to-month,77.09,No,Cash,No
+C0112,42,Month-to-month,44.99,No,Cash,No
+C0113,2,Month-to-month,65.85,Yes,Bank transfer,No
+C0114,52,Month-to-month,52.25,No,Bank transfer,No
+C0115,27,One year,117.75,No,Bank transfer,No
+C0116,38,One year,89.72,Yes,Mobile money,No
+C0117,14,Month-to-month,87.08,Yes,Cash,No
+C0118,8,Month-to-month,21.84,Yes,Card,No
+C0119,5,Two year,114.92,Yes,Bank transfer,Yes
+C0120,3,One year,114.45,No,Cash,Yes
+C0121,50,Month-to-month,29.27,Yes,Card,No
+C0122,18,Month-to-month,26.35,Yes,Mobile money,No
+C0123,41,One year,104.86,No,Cash,No
+C0124,1,Month-to-month,105.71,Yes,Mobile money,No
+C0125,34,Month-to-month,34.89,No,Cash,Yes
+C0126,10,One year,75.74,No,Mobile money,No
+C0127,10,One year,78.61,No,Bank transfer,Yes
+C0128,1,Month-to-month,113.97,Yes,Cash,No
+C0129,15,Month-to-month,41.93,No,Bank transfer,Yes
+C0130,3,One year,99.08,Yes,Cash,No
+C0131,2,One year,115.92,Yes,Mobile money,Yes
+C0132,16,One year,93.17,No,Bank transfer,No
+C0133,29,One year,99.64,No,Bank transfer,Yes
+C0134,3,One year,22.02,Yes,Mobile money,No
+C0135,42,One year,115.62,No,Mobile money,No
+C0136,30,Two year,24.33,No,Cash,No
+C0137,11,Month-to-month,58.15,No,Card,Yes
+C0138,38,Month-to-month,97.37,No,Bank transfer,Yes
+C0139,24,Month-to-month,64.53,Yes,Bank transfer,No
+C0140,47,Month-to-month,113.78,No,Cash,No
+C0141,19,Month-to-month,22.42,No,Card,No
+C0142,26,Month-to-month,43.34,Yes,Mobile money,No
+C0143,4,Month-to-month,91.19,No,Card,Yes
+C0144,31,Month-to-month,55.34,No,Bank transfer,No
+C0145,16,Month-to-month,99.61,Yes,Cash,Yes
+C0146,6,Month-to-month,89.06,No,Card,No
+C0147,5,Two year,51.07,No,Cash,No
+C0148,49,Month-to-month,84.74,No,Cash,No
+C0149,38,Two year,39.3,No,Bank transfer,No
+C0150,8,Two year,104.66,Yes,Bank transfer,No
+C0151,31,Two year,96.76,No,Mobile money,No
+C0152,3,Month-to-month,62.76,Yes,Mobile money,Yes
+C0153,44,One year,91.51,No,Mobile money,No
+C0154,6,Month-to-month,82.4,Yes,Bank transfer,No
+C0155,34,One year,73.08,Yes,Mobile money,No
+C0156,39,One year,69.05,Yes,Card,No
+C0157,23,One year,49.86,Yes,Card,No
+C0158,43,One year,32.62,No,Card,No
+C0159,54,Month-to-month,94.24,No,Cash,No
+C0160,30,Month-to-month,75.24,No,Mobile money,No
+C0161,44,Two year,46.25,Yes,Card,No
+C0162,58,One year,27.77,Yes,Mobile money,No
+C0163,49,Month-to-month,49.45,Yes,Mobile money,No
+C0164,15,Two year,56.34,No,Bank transfer,No
+C0165,33,Month-to-month,102.05,No,Bank transfer,No
+C0166,39,One year,41.87,No,Mobile money,Yes
+C0167,9,Month-to-month,107.41,Yes,Card,No
+C0168,31,Month-to-month,45.73,Yes,Card,No
+C0169,50,Month-to-month,42.68,No,Cash,No
+C0170,59,Month-to-month,96.63,Yes,Bank transfer,Yes
+C0171,55,Two year,62.24,Yes,Bank transfer,No
+C0172,41,Month-to-month,25.37,Yes,Cash,No
+C0173,45,Month-to-month,78.35,No,Bank transfer,No
+C0174,47,Two year,95.23,Yes,Card,No
+C0175,34,Month-to-month,67.35,No,Mobile money,No
+C0176,16,One year,77.98,No,Bank transfer,No
+C0177,36,Month-to-month,34.73,Yes,Card,Yes
+C0178,1,One year,23.99,No,Cash,No
+C0179,17,One year,109.45,No,Card,No
+C0180,14,Two year,63.22,Yes,Card,No
+C0181,15,One year,79.52,Yes,Cash,No
+C0182,48,Month-to-month,17.23,No,Mobile money,No
+C0183,3,Two year,52.66,No,Bank transfer,No
+C0184,56,Month-to-month,104.22,Yes,Card,No
+C0185,52,One year,44.8,No,Cash,No
+C0186,20,One year,57.84,No,Mobile money,No
+C0187,37,Month-to-month,118.56,No,Card,Yes
+C0188,11,Month-to-month,31.43,Yes,Mobile money,No
+C0189,21,One year,114.14,No,Cash,No
+C0190,45,Month-to-month,67.63,Yes,Cash,No
+C0191,5,Month-to-month,18.11,Yes,Cash,No
+C0192,35,Month-to-month,94.43,Yes,Mobile money,No
+C0193,14,Two year,85.6,No,Bank transfer,No
+C0194,9,One year,69.08,No,Bank transfer,Yes
+C0195,42,Two year,114.94,Yes,Cash,No
+C0196,33,Month-to-month,46.29,Yes,Mobile money,No
+C0197,40,Month-to-month,57.68,Yes,Cash,No
+C0198,5,Month-to-month,105.35,No,Cash,Yes
+C0199,50,Two year,31.46,No,Mobile money,No
+C0200,18,One year,25.21,Yes,Bank transfer,Yes
+C0201,22,One year,90.69,Yes,Bank transfer,No
+C0202,52,Two year,91.42,No,Bank transfer,No
+C0203,5,Two year,101.64,No,Mobile money,No
+C0204,20,One year,86.02,Yes,Bank transfer,No
+C0205,51,Two year,98.28,Yes,Mobile money,No
+C0206,49,Month-to-month,58.4,Yes,Card,Yes
+C0207,18,Two year,45.79,No,Bank transfer,No
+C0208,21,One year,52.78,Yes,Mobile money,Yes
+C0209,9,Month-to-month,79.93,No,Card,Yes
+C0210,19,One year,22.34,No,Cash,Yes
+C0211,45,Month-to-month,80.57,Yes,Cash,No
+C0212,24,One year,35.54,Yes,Cash,No
+C0213,4,Month-to-month,25.82,No,Cash,No
+C0214,3,Month-to-month,85.05,Yes,Bank transfer,No
+C0215,11,Month-to-month,85.13,Yes,Cash,Yes
+C0216,54,Month-to-month,38.83,Yes,Mobile money,No
+C0217,4,Month-to-month,40.17,Yes,Bank transfer,Yes
+C0218,29,Month-to-month,64.95,No,Mobile money,Yes
+C0219,40,Month-to-month,33.69,Yes,Mobile money,Yes
+C0220,25,One year,89.93,No,Bank transfer,Yes
+C0221,53,Month-to-month,17.26,Yes,Card,Yes
+C0222,6,Two year,96.77,Yes,Card,Yes
+C0223,13,One year,101.57,Yes,Bank transfer,No
+C0224,6,One year,110.71,Yes,Cash,No
+C0225,8,Month-to-month,16.5,Yes,Mobile money,Yes
+C0226,36,One year,43.89,Yes,Mobile money,No
+C0227,20,Month-to-month,31.53,Yes,Mobile money,No
+C0228,45,Month-to-month,86.61,Yes,Mobile money,Yes
+C0229,46,Month-to-month,116.08,No,Cash,No
+C0230,51,Month-to-month,37.97,Yes,Cash,Yes
+C0231,38,Month-to-month,40.77,Yes,Bank transfer,No
+C0232,39,Month-to-month,93.56,No,Mobile money,No
+C0233,40,Month-to-month,23.96,No,Cash,No
+C0234,7,Two year,104.66,No,Cash,No
+C0235,21,Month-to-month,28.44,Yes,Bank transfer,No
+C0236,8,Month-to-month,111.97,No,Card,Yes
+C0237,52,Two year,85.88,No,Bank transfer,No
+C0238,29,Month-to-month,24.27,No,Mobile money,No
+C0239,7,Month-to-month,49.68,No,Mobile money,No
+C0240,31,One year,19.66,Yes,Bank transfer,No
+C0241,8,Month-to-month,61.51,Yes,Card,Yes
+C0242,24,One year,88.26,No,Card,No
+C0243,15,One year,29.51,No,Bank transfer,No
+C0244,42,Month-to-month,75.38,No,Card,Yes
+C0245,46,Two year,115.49,No,Card,No
+C0246,47,Month-to-month,34.93,Yes,Cash,No
+C0247,50,One year,23.06,No,Card,Yes
+C0248,29,Two year,29.04,No,Cash,No
+C0249,27,Month-to-month,26.79,Yes,Card,No
+C0250,50,Two year,75.58,Yes,Card,No
+C0251,29,Month-to-month,91.46,Yes,Bank transfer,No
+C0252,55,Month-to-month,115.49,Yes,Bank transfer,No
+C0253,38,Month-to-month,65.02,No,Bank transfer,Yes
+C0254,18,Month-to-month,67.2,Yes,Bank transfer,Yes
+C0255,22,Two year,103.72,Yes,Cash,Yes
+C0256,17,Month-to-month,106.69,No,Cash,Yes
+C0257,5,Two year,71.73,Yes,Bank transfer,No
+C0258,36,Month-to-month,104.2,No,Card,Yes
+C0259,38,One year,78.74,No,Bank transfer,Yes
+C0260,50,Month-to-month,91.45,Yes,Card,No
+C0261,31,Month-to-month,63.82,Yes,Card,No
+C0262,13,Month-to-month,103.16,No,Mobile money,Yes
+C0263,45,Month-to-month,40.68,No,Card,No
+C0264,28,Two year,31.99,Yes,Mobile money,No
+C0265,44,Month-to-month,51.87,Yes,Cash,No
+C0266,28,Month-to-month,70.61,No,Cash,No
+C0267,6,Month-to-month,27.55,Yes,Cash,Yes
+C0268,30,Month-to-month,49.28,Yes,Cash,Yes
+C0269,58,Month-to-month,37.66,Yes,Cash,No
+C0270,50,Month-to-month,88.85,No,Card,Yes
+C0271,13,One year,87.62,No,Mobile money,No
+C0272,30,Month-to-month,30.78,No,Mobile money,No
+C0273,33,Month-to-month,37.98,No,Bank transfer,Yes
+C0274,46,Month-to-month,100.61,Yes,Bank transfer,No
+C0275,27,One year,76.93,No,Mobile money,No
+C0276,46,One year,46.81,No,Mobile money,No
+C0277,52,Month-to-month,56.76,Yes,Cash,Yes
+C0278,37,Month-to-month,38.92,Yes,Mobile money,No
+C0279,6,Month-to-month,33.44,No,Mobile money,Yes
+C0280,24,Two year,19.85,No,Bank transfer,No
+C0281,7,One year,115.64,Yes,Cash,Yes
+C0282,23,Month-to-month,104.15,No,Card,Yes
+C0283,15,Two year,61.82,No,Bank transfer,No
+C0284,58,One year,67.98,No,Cash,Yes
+C0285,56,Month-to-month,74.38,No,Bank transfer,No
+C0286,5,Two year,90.12,No,Cash,No
+C0287,33,One year,66.48,Yes,Cash,No
+C0288,12,One year,53.38,No,Cash,No
+C0289,36,One year,29.81,No,Mobile money,Yes
+C0290,5,Month-to-month,96.79,Yes,Mobile money,Yes
+C0291,52,Month-to-month,37.55,Yes,Cash,Yes
+C0292,28,Two year,90.84,Yes,Cash,No
+C0293,46,One year,60.71,No,Cash,No
+C0294,30,Two year,97.46,Yes,Mobile money,No
+C0295,24,One year,75.8,No,Card,Yes
+C0296,43,Month-to-month,103.27,No,Mobile money,Yes
+C0297,57,Two year,118.65,Yes,Card,No
+C0298,6,Month-to-month,99.93,Yes,Cash,No
+C0299,32,Month-to-month,83.24,Yes,Bank transfer,No
+C0300,4,Month-to-month,55.52,No,Mobile money,Yes
+C0301,55,Month-to-month,66.06,Yes,Bank transfer,No
+C0302,28,Month-to-month,90.08,Yes,Bank transfer,Yes
+C0303,11,Two year,89.8,No,Cash,Yes
+C0304,4,Month-to-month,65.83,No,Card,No
+C0305,4,One year,94.11,No,Bank transfer,No
+C0306,21,Month-to-month,66.51,No,Card,No
+C0307,15,One year,107.24,No,Cash,No
+C0308,20,Month-to-month,50.05,No,Card,Yes
+C0309,41,Month-to-month,70.22,No,Bank transfer,Yes
+C0310,37,Two year,68.86,Yes,Cash,No
+C0311,26,Month-to-month,23.91,Yes,Cash,No
+C0312,56,One year,29.23,Yes,Card,No
+C0313,30,Month-to-month,95.59,No,Card,Yes
+C0314,6,Month-to-month,19.54,Yes,Card,No
+C0315,12,One year,26.12,Yes,Card,No
+C0316,8,Month-to-month,78.85,No,Bank transfer,Yes
+C0317,22,Month-to-month,79.6,No,Card,No
+C0318,40,Month-to-month,80.19,Yes,Mobile money,No
+C0319,49,Two year,116.05,Yes,Mobile money,No
+C0320,27,Month-to-month,36.69,No,Cash,No
+C0321,32,Month-to-month,35.01,No,Card,No
+C0322,13,One year,102.1,No,Cash,Yes
+C0323,51,Month-to-month,87.83,Yes,Bank transfer,No
+C0324,17,Month-to-month,117.98,Yes,Bank transfer,Yes
+C0325,49,One year,20.46,No,Bank transfer,Yes
+C0326,26,One year,63.76,Yes,Bank transfer,No
+C0327,31,One year,42.27,Yes,Mobile money,No
+C0328,57,Month-to-month,37.94,No,Cash,No
+C0329,11,One year,51.78,Yes,Bank transfer,No
+C0330,40,Month-to-month,75.71,Yes,Bank transfer,No
+C0331,60,Two year,71.02,Yes,Cash,No
+C0332,35,Month-to-month,44.36,Yes,Mobile money,Yes
+C0333,20,Month-to-month,63.57,No,Mobile money,Yes
+C0334,47,Month-to-month,50.5,Yes,Card,No
+C0335,60,One year,35.46,No,Mobile money,No
+C0336,10,Month-to-month,117.06,No,Bank transfer,Yes
+C0337,3,Month-to-month,52.01,No,Cash,No
+C0338,14,Month-to-month,107.37,No,Card,Yes
+C0339,52,Month-to-month,53.31,No,Cash,Yes
+C0340,15,Two year,86.52,Yes,Cash,No
+C0341,9,One year,26.22,Yes,Cash,No
+C0342,49,Month-to-month,36.26,No,Mobile money,Yes
+C0343,23,Month-to-month,110.44,No,Mobile money,No
+C0344,13,One year,31.52,Yes,Cash,No
+C0345,42,Month-to-month,99.16,Yes,Bank transfer,No
+C0346,16,Two year,112.25,No,Card,Yes
+C0347,6,Two year,37.84,No,Card,No
+C0348,6,Month-to-month,23.17,Yes,Cash,No
+C0349,22,Two year,67.39,Yes,Mobile money,No
+C0350,13,Month-to-month,95.56,No,Mobile money,Yes
+C0351,2,One year,93.64,Yes,Bank transfer,No
+C0352,8,Month-to-month,63.56,Yes,Card,Yes
+C0353,44,Two year,23.36,Yes,Card,No
+C0354,2,Month-to-month,30.17,No,Bank transfer,Yes
+C0355,48,Two year,87.61,No,Cash,No
+C0356,53,Month-to-month,97.83,No,Bank transfer,No
+C0357,59,Month-to-month,27.6,No,Card,No
+C0358,32,Month-to-month,109.52,Yes,Card,No
+C0359,7,One year,117.5,Yes,Bank transfer,No
+C0360,26,One year,64.45,Yes,Bank transfer,No
+C0361,16,Month-to-month,76.31,No,Cash,No
+C0362,11,Month-to-month,59.87,Yes,Mobile money,Yes
+C0363,47,Month-to-month,58.59,Yes,Mobile money,No
+C0364,24,Month-to-month,56.6,Yes,Card,Yes
+C0365,31,One year,15.62,Yes,Mobile money,No
+C0366,58,Month-to-month,45.16,No,Mobile money,No
+C0367,13,One year,38.43,Yes,Cash,No
+C0368,44,One year,66.36,No,Card,No
+C0369,58,One year,76.86,No,Card,No
+C0370,6,Month-to-month,83.08,No,Cash,No
+C0371,40,Month-to-month,74.99,Yes,Card,Yes
+C0372,23,Month-to-month,70.33,No,Bank transfer,Yes
+C0373,41,Two year,68.69,Yes,Card,No
+C0374,59,Month-to-month,66.69,Yes,Card,Yes
+C0375,12,Two year,89.48,No,Mobile money,No
+C0376,30,One year,23.17,No,Bank transfer,Yes
+C0377,50,One year,25.66,Yes,Bank transfer,No
+C0378,36,One year,47.11,Yes,Card,No
+C0379,47,One year,51.83,No,Mobile money,No
+C0380,2,Month-to-month,36.12,Yes,Card,No
+C0381,25,Month-to-month,112.65,No,Bank transfer,Yes
+C0382,48,One year,65.06,No,Bank transfer,Yes
+C0383,22,One year,22.3,Yes,Bank transfer,No
+C0384,56,Month-to-month,39.84,Yes,Mobile money,No
+C0385,25,Two year,31.72,No,Mobile money,No
+C0386,5,Month-to-month,27.48,No,Cash,No
+C0387,35,Month-to-month,95.64,Yes,Bank transfer,No
+C0388,39,Two year,25.49,No,Bank transfer,No
+C0389,1,Two year,64.6,No,Bank transfer,No
+C0390,37,Month-to-month,59.2,Yes,Mobile money,No
+C0391,34,One year,23.67,No,Mobile money,No
+C0392,12,One year,110.08,No,Card,No
+C0393,48,One year,74.84,Yes,Bank transfer,No
+C0394,47,Month-to-month,55.13,No,Card,Yes
+C0395,9,Month-to-month,81.15,Yes,Mobile money,Yes
+C0396,18,Two year,96.88,Yes,Cash,No
+C0397,25,Month-to-month,72.39,Yes,Bank transfer,Yes
+C0398,28,One year,53.83,Yes,Card,No
+C0399,10,Two year,57.51,Yes,Cash,No
+C0400,50,One year,15.9,No,Bank transfer,Yes
+C0401,38,Month-to-month,49.85,Yes,Mobile money,No
+C0402,45,One year,99.0,Yes,Cash,No
+C0403,12,One year,75.64,Yes,Bank transfer,No
+C0404,26,Month-to-month,46.06,No,Card,No
+C0405,12,One year,83.17,Yes,Mobile money,No
+C0406,14,Month-to-month,38.9,Yes,Mobile money,No
+C0407,22,Month-to-month,30.25,No,Bank transfer,No
+C0408,8,Month-to-month,86.92,No,Mobile money,No
+C0409,5,Month-to-month,92.54,No,Cash,Yes
+C0410,8,One year,106.18,No,Card,Yes
+C0411,33,Month-to-month,119.64,No,Card,No
+C0412,32,Month-to-month,72.23,Yes,Cash,No
+C0413,37,Two year,79.79,Yes,Cash,No
+C0414,50,One year,32.95,Yes,Bank transfer,No
+C0415,59,Two year,100.33,Yes,Bank transfer,No
+C0416,9,Month-to-month,52.03,No,Cash,No
+C0417,52,Month-to-month,36.91,Yes,Cash,Yes
+C0418,55,Two year,102.55,No,Cash,No
+C0419,2,Two year,101.89,No,Bank transfer,Yes
+C0420,22,Month-to-month,64.3,Yes,Bank transfer,No
+C0421,19,Month-to-month,80.35,Yes,Card,No
+C0422,2,Month-to-month,116.14,Yes,Card,No
+C0423,32,Two year,35.0,No,Mobile money,No
+C0424,2,Month-to-month,40.95,Yes,Cash,Yes
+C0425,22,One year,40.18,Yes,Mobile money,No
+C0426,12,Month-to-month,17.29,No,Card,No
+C0427,26,One year,67.64,No,Mobile money,Yes
+C0428,15,Two year,105.8,Yes,Card,No
+C0429,9,Month-to-month,23.29,Yes,Mobile money,Yes
+C0430,23,Month-to-month,79.98,Yes,Mobile money,Yes
+C0431,11,One year,73.05,Yes,Cash,No
+C0432,54,One year,53.72,Yes,Mobile money,No
+C0433,22,Month-to-month,41.75,Yes,Mobile money,No
+C0434,3,Month-to-month,77.24,Yes,Mobile money,No
+C0435,20,Two year,22.46,No,Bank transfer,No
+C0436,25,Two year,88.74,Yes,Mobile money,No
+C0437,8,Month-to-month,45.21,No,Bank transfer,No
+C0438,58,Month-to-month,67.0,No,Mobile money,Yes
+C0439,47,Month-to-month,30.16,No,Mobile money,No
+C0440,32,Month-to-month,46.58,Yes,Bank transfer,Yes
+C0441,31,One year,24.12,No,Card,Yes
+C0442,16,One year,61.33,Yes,Mobile money,No
+C0443,8,One year,80.01,Yes,Mobile money,Yes
+C0444,57,Month-to-month,52.04,No,Mobile money,No
+C0445,49,One year,60.17,Yes,Cash,No
+C0446,9,Month-to-month,36.77,No,Mobile money,Yes
+C0447,32,Month-to-month,118.14,Yes,Bank transfer,No
+C0448,56,Two year,37.75,Yes,Bank transfer,No
+C0449,51,One year,110.62,No,Card,No
+C0450,22,Month-to-month,41.03,Yes,Cash,No
+C0451,42,One year,26.4,Yes,Bank transfer,Yes
+C0452,24,One year,76.61,Yes,Cash,No
+C0453,40,Month-to-month,51.39,No,Bank transfer,Yes
+C0454,5,Month-to-month,43.43,Yes,Mobile money,No
+C0455,13,Two year,80.78,Yes,Cash,No
+C0456,29,Month-to-month,73.1,Yes,Bank transfer,Yes
+C0457,59,One year,30.73,Yes,Cash,No
+C0458,26,Month-to-month,35.05,No,Card,No
+C0459,5,Two year,16.81,No,Cash,No
+C0460,60,One year,53.55,Yes,Mobile money,No
+C0461,4,One year,38.23,No,Card,No
+C0462,44,One year,36.01,No,Bank transfer,No
+C0463,40,One year,90.04,No,Bank transfer,No
+C0464,24,One year,80.49,Yes,Mobile money,No
+C0465,59,Month-to-month,110.64,No,Bank transfer,Yes
+C0466,58,Month-to-month,59.45,No,Cash,Yes
+C0467,57,One year,21.46,Yes,Bank transfer,No
+C0468,43,Month-to-month,27.47,No,Cash,No
+C0469,25,Month-to-month,103.6,Yes,Card,No
+C0470,6,One year,105.59,Yes,Cash,No
+C0471,20,Month-to-month,46.11,No,Cash,Yes
+C0472,11,One year,50.3,No,Bank transfer,Yes
+C0473,45,One year,83.46,Yes,Cash,No
+C0474,10,Month-to-month,84.66,Yes,Bank transfer,Yes
+C0475,13,Month-to-month,48.18,Yes,Cash,Yes
+C0476,5,Month-to-month,60.96,Yes,Cash,Yes
+C0477,48,Month-to-month,76.05,No,Mobile money,No
+C0478,20,Month-to-month,57.86,Yes,Card,No
+C0479,28,Two year,100.32,Yes,Bank transfer,No
+C0480,50,Month-to-month,87.52,No,Bank transfer,Yes
+C0481,14,Month-to-month,21.92,No,Bank transfer,Yes
+C0482,43,One year,32.72,No,Card,Yes
+C0483,40,One year,35.73,No,Card,No
+C0484,41,Month-to-month,114.51,Yes,Mobile money,Yes
+C0485,54,Month-to-month,62.44,Yes,Bank transfer,Yes
+C0486,7,One year,85.43,No,Mobile money,No
+C0487,23,Month-to-month,15.26,No,Bank transfer,No
+C0488,47,One year,53.84,No,Mobile money,No
+C0489,41,Month-to-month,40.42,No,Cash,No
+C0490,40,Month-to-month,54.69,No,Bank transfer,Yes
+C0491,53,Month-to-month,101.77,Yes,Bank transfer,Yes
+C0492,34,One year,44.9,Yes,Card,Yes
+C0493,1,Month-to-month,92.59,Yes,Card,Yes
+C0494,51,One year,85.99,Yes,Cash,No
+C0495,37,Month-to-month,66.41,Yes,Mobile money,Yes
+C0496,43,Month-to-month,58.7,Yes,Mobile money,No
+C0497,59,Month-to-month,15.48,No,Bank transfer,No
+C0498,31,One year,35.83,No,Cash,No
+C0499,20,One year,70.71,Yes,Bank transfer,No
+C0500,59,Month-to-month,45.67,Yes,Cash,No

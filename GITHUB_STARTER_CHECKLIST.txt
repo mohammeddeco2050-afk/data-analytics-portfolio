@@ -1,0 +1,14 @@
+GITHUB STARTER CHECKLIST
+1. Visit https://github.com/ and select Sign up.
+2. Use an email address you can keep access to; enable two-factor authentication.
+3. Choose a professional username.
+4. Create a repository named data-analytics-portfolio.
+5. Set it to Public if you want recruiters to see it.
+6. Upload the project folders and root README from this package.
+7. Check that each README, CSV, analysis.py, queries.sql and outputs chart is visible.
+8. Run every script yourself and understand it before discussing it in interviews.
+9. Add your GitHub URL to the resume only once the repository is live.
+10. Keep the synthetic-data labels visible. Never upload confidential employer data.
+
+Profile bio idea:
+Entry-level data analyst developing practical Python, pandas and SQL skills through documented portfolio projects. Interested in turning data into clear reports and useful business questions.

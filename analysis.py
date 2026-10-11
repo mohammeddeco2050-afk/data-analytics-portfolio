@@ -1,0 +1,12 @@
+import pandas as pd
+df = pd.read_csv("customer_churn_sample.csv")
+df["tenure_band"] = pd.cut(df["tenure_months"], bins=[0,6,12,24,60], labels=["1-6 months","7-12 months","13-24 months","25-60 months"])
+print("SYNTHETIC DATA — CUSTOMER CHURN")
+print("Rows:",len(df))
+print(f"Overall churn rate: {(df['churned']=='Yes').mean():.1%}")
+print("\nChurn rate by contract:")
+print(df.groupby("contract_type")["churned"].apply(lambda s:(s=="Yes").mean()).sort_values(ascending=False))
+print("\nChurn rate by tenure:")
+print(df.groupby("tenure_band",observed=False)["churned"].apply(lambda s:(s=="Yes").mean()))
+print("\nChurn rate by recent support contact:")
+print(df.groupby("support_contact_last_90d")["churned"].apply(lambda s:(s=="Yes").mean()))
